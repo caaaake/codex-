@@ -6,3 +6,9 @@ codex在下载时将环境量设置为OPENAI_BASE_URL=https://api.siliconflow.cn
 将环境变量设置为OPENAI_BASE_URL=https://api.openai.com/v1
 ## 图片演示
 
+
+
+<div align="center">
+  <img src="image.png" width="100%" />
+  <p>按照如图所示修改</p>
+</div>
